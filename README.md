@@ -41,6 +41,4 @@ Welcome to the U.S. States Game – an exciting way to test your knowledge of U.
 
 Contributions are welcome! If you'd like to enhance the game, fix issues, or add new features, feel free to open a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
