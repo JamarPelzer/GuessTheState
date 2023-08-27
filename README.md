@@ -23,9 +23,7 @@ Welcome to the U.S. States Game – an exciting way to test your knowledge of U.
 - **Convenient Exit:** You can exit the game anytime by typing "Exit," and your progress will be saved for your next session.
 
 ## Screenshots
-
-![Gameplay Screenshot](Guessstategame.png)
-<img width="712" alt="Guessstategame" src="https://github.com/JamarPelzer/GuessTheState/assets/117375506/2918bc61-9169-47b6-b543-a16794963e89">
+![Gameplay Screenshot]<img width="712" alt="Guessstategame" src="https://github.com/JamarPelzer/GuessTheState/assets/117375506/2918bc61-9169-47b6-b543-a16794963e89">
 
 ## Requirements
 
