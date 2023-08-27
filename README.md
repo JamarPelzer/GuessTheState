@@ -1,7 +1,5 @@
 # U.S Guess The State
 
-![U.S. States Game](screenshot.png)
-
 Welcome to the U.S. States Game – an exciting way to test your knowledge of U.S. geography while having fun! This Python-based application challenges you to guess the names of all 50 U.S. states on a blank map. Sharpen your geographic skills, learn state locations, and enjoy a captivating gaming experience.
 
 ## How to Play
@@ -27,6 +25,7 @@ Welcome to the U.S. States Game – an exciting way to test your knowledge of U.
 ## Screenshots
 
 ![Gameplay Screenshot](Guessstategame.png)
+<img width="712" alt="Guessstategame" src="https://github.com/JamarPelzer/GuessTheState/assets/117375506/2918bc61-9169-47b6-b543-a16794963e89">
 
 ## Requirements
 
